@@ -1,0 +1,21 @@
+{
+  "name": "minecraft",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "html2json": "^1.0.2",
+    "long": "^4.0.0",
+    "moment": "^2.24.0",
+    "nbt": "^0.8.1",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4",
+    "sharp": "^0.22.1"
+  }
+}
